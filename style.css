@@ -1,6 +1,19 @@
 body{
     margin: 0px;
 }
+
+.headerContainer{
+    width: 320px;
+    height: 144px;
+}
+
+.interestsContainer{
+    width: 320px;
+    height: 74px;
+    background-color: #ffffff;
+    overflow-x: auto;
+}
+
 .firstContainer{
     background: #ffffff;
     position: relative;
